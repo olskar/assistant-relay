@@ -130,6 +130,7 @@ function Configuration({history}){
                     <Option value="en-CA">English (Canada)</Option>
                     <Option value="en-GB">English (United Kingdom)</Option>
                     <Option value="en-IN">English (India)</Option>
+                    <Option value="sv-SE">Swedish</Option>
                     <Option value="en-US">English (United States)</Option>
                     <Option value="fr-CA">French (Canada)</Option>
                     <Option value="fr-FR">French (France)</Option>
